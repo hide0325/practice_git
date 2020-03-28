@@ -1,9 +1,4 @@
-LINE1
-BRANCH1
-ああああああああああ
-BRANCH2
-
-
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+新規ブランチで編集１
+あああああああああああ
+あああああああああああああああああああああああ
+ブランチで更新
