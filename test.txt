@@ -1,9 +1,1 @@
-LINE1
-BRANCH1
-ああああああああああ
-BRANCH2
-
-
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ブランチ２で変更１
